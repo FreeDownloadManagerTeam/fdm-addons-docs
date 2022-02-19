@@ -1,0 +1,15 @@
+{
+  "uuid": "fdm-supremecourt-gov",
+  "author": "FreeDownloadManager.ORG",
+  "name": "Supreme Court Argument Audio",
+  "description": "Provides support for downloading argument audio from supremecourt.gov site.",
+  "version": "1.0.1",
+  "icon": "icon.png",
+  "mediaParser": true,
+  "mediaListParser": true,
+  "scripts": [
+    "msparser.js",
+    "msbatchparser.js"
+  ],
+  "updateUrl": "https://somesite.domain/update/fdm-supremecourt-gov-update.json"
+}
